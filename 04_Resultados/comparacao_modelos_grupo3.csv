@@ -1,0 +1,5 @@
+﻿modelo,accuracy,precision,recall,f1_score
+Regressao_Logistica,0.0,0.0,0.0,0.0
+DNN_1_Camada,0.0,0.0,0.0,0.0
+DNN_2_Camadas,0.0,0.0,0.0,0.0
+DNN_3_Camadas,0.0,0.0,0.0,0.0
